@@ -1,2 +1,2 @@
 <?php 
-echo "test2";
+echo "deuxième Modification depuis conflict-branch";
