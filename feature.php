@@ -1,2 +1,2 @@
 <?php 
-echo "Modification depuis main" ;
+echo "résolution de conflit";
