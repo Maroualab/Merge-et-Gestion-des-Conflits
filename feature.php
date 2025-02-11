@@ -1,2 +1,2 @@
 <?php 
-echo "résolution de conflit";
+echo "test2";
