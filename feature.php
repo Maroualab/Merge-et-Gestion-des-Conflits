@@ -1,2 +1,2 @@
 <?php 
-echo "Ceci est une nouvelle fonctionnalité"
+echo "Modification depuis main" ;
